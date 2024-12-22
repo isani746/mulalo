@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(96, 219, 219);
+    text-align: center;
+    background-image: url("C:\Users\Isani\Downloads\65LMcr.jpg");
+}
+h1{
+    color: rgb(64, 64, 105);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: darkcyan;
+}
+ul{
+    text-emphasis: none;
+    text-decoration-line:inherit;
+    text-align: center;
+    text-decoration-style: wavy;
+    text-decoration: none;
+    color: darkcyan;
+}
+h3{
+    color:darkcyan ;
+}
+
+form{
+color: darkcyan;
+}
+
